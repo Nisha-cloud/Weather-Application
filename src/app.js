@@ -9,7 +9,7 @@ const port = process.env.PORT || 3000
 console.log(__dirname)
 const app = express()
 
-//Define paths for Express confi
+
 const publicPathDirectory = path.join(__dirname, '../public')
 const viewsPath = path.join(__dirname, '../templates/views' )
 const partialsPath = path.join(__dirname, '../templates/partials')
