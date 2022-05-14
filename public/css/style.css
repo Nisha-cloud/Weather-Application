@@ -1,0 +1,63 @@
+/* h1 {
+    color: blue;
+    background-color: black;
+
+}
+
+/* img{
+    width: 250px;
+} */
+img{
+    width: 250px;
+}
+body{
+    color: black;
+    margin: 0 auto;
+    padding: 0 16px;
+    max-width: 60vw;
+    /* display: flex;
+    justify-content: center; */
+    
+    
+    
+}
+.content{
+    height: 80vh;
+    display: inline-block;
+    /* display: flex;
+    justify-content: center; */
+}
+.mgee img{
+    width: 40vw;
+
+}
+
+footer{
+    color: #888888;
+    border-top: 16px solid #eeeeee;
+    margin-top: 16px;
+    padding: 16px 0;
+}
+
+header{
+    margin-top: 16px;
+    margin-bottom: 48px;
+}
+
+ input{
+     border: 1px solid gray;
+     padding: 8px;
+ }
+ button{
+     cursor: pointer;
+     border: 1px solid whitesmoke;
+     padding: 8px;
+     color: white;
+     background: grey;
+ }
+ header a{
+     text-decoration: none;
+     margin-right: 16px;
+     color: #888888;
+     
+ }
